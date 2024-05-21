@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""to call FileStorage"""
+"""Initializes from the package  FileStorage"""
 
 from models.engine.file_storage import FileStorage
 
